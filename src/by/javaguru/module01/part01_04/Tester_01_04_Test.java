@@ -84,8 +84,8 @@ public class Tester_01_04_Test extends HomeWork {
 
     @Test(timeout = 2000)
     public void testTask01_04_07() throws Exception {
-        HomeWork work = run("3 4").include("5");
-        Method getLastDigit = work.checkMethod("Task01_04_07", "getDistance", double.class, double.class);
+        var work = run("3 4").include("5");
+        var getLastDigit = work.checkMethod("Task01_04_07", "getDistance", double.class, double.class);
         double distance = (double) work.invoke(getLastDigit, null, Double.valueOf(3), Double.valueOf(4));
         assertEquals(5.0, distance, 1e-10);
     }
