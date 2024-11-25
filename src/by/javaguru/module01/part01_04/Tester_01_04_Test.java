@@ -16,7 +16,7 @@ public class Tester_01_04_Test extends HomeWork {
     Package:            by.it.module01
     Search for test:    In whole project
 
-    Можно и просто запускать тесты с помощью кнопок Idea справа от кода.
+    Можно и просто запускать тесты с помощью кнопок Idea слева от кода.
     */
 
     @Test(timeout = 2000)
