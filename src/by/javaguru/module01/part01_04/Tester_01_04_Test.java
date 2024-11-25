@@ -3,8 +3,6 @@ package by.javaguru.module01.part01_04;
 import by.it.HomeWork;
 import org.junit.Test;
 
-import java.lang.reflect.Method;
-
 import static org.junit.Assert.assertEquals;
 
 @SuppressWarnings("all")
