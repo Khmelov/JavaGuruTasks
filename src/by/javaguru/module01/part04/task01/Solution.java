@@ -1,6 +1,6 @@
-package by.javaguru.module01.part01_04;
+package by.javaguru.module01.part04.task01;
 
-public class Task01_04_01 {
+public class Solution {
     /*
     Переменные и типы данных
 

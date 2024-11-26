@@ -1,6 +1,6 @@
-package by.javaguru.module01.part01_04;
+package by.javaguru.module01.part04.task07;
 
-public class Task01_04_07 {
+public class Solution {
     /*
     Операторы, методы, переменные
 
