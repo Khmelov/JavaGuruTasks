@@ -6,9 +6,9 @@ public class Solution {
 
     Написать код, который выведет значения переменных на экран:
     byte b = 0х55;
-    short s = 0x55;
+    short s = 0x55ff;
     int i = 1000000;
-    long l = 0xL;
+    long l = 0xffffffffL;
     char с = 'a' ;
     float f = .25f;
     double d = .00001234;

@@ -10,7 +10,7 @@ public class TaskTest extends HomeWork {
     public void testSolution() throws Exception {
         run("")
                 .include("85")
-                .include("85")
+                .include("22015")
                 .include("1000000")
                 .include("4294967295")
                 .include("a")
